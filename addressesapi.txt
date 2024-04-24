@@ -1,23 +1,10 @@
-13.55.237.163#Sydney
-13.237.94.188#Sydney
-13.237.94.188#Sydney
-13.55.59.224#Sydney
-13.238.235#Sydney 
-13.238.235.196#Sydney
-13.237.94.188#Sydney
-13.51.132.60#Frankfurt
-13.55.237.163#Oceania Sydney
-13.237.94.188#Oceania Sydney
-54.66.80.167#Oceania Sydney
-54.78.10.48#Dublin
-13.238.235.196#Oceania Sydney
-13.55.59.224#Oceania Sydney
-13.238.235.196#Oceania Sydney
-13.55.59.224#Oceania Sydney
-67.226.222.36#North America Chicago
-13.55.59.224#Oceania Sydney
-13.237.94.188#Oceania Sydney
-13.237.94.188#Oceania Sydney
-13.55.59.224#Oceania Sydney
-13.55.59.224#Oceania Sydney
-13.55.59.224#Oceania Sydney
+8.218.126.53#香港
+8.217.164.10#香港
+8.217.164.10#香港
+8.217.164.10#香港
+8.218.126.53#香港
+8.210.65.1#香港
+8.218.119.115#香港
+8.210.156.6#香港
+8.210.156.6:80#香港
+8.210.156.6:2086#香港
